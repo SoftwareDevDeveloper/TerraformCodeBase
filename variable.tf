@@ -23,6 +23,8 @@ variable "default_tags" {
     "Manager" = "values"
     "Dept" = "Telecomms"
     "Location" = "United Kingdom"
+    "City"    = "London"
+    "County"  = "Surrey"
   }
 
 }
