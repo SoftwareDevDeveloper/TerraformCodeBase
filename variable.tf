@@ -21,7 +21,8 @@ variable "default_tags" {
   type        = map(any)
   default = {
     "Manager" = "values"
-    "Dept" = "Technology"
+    "Dept" = "Telecomms"
+    "Location" = "United Kingdom"
   }
 
 }
